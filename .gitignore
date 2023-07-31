@@ -12,7 +12,6 @@ deploy-gh-page.sh
 publish.sh
 publish*
 dist
-gh-page
 explorer
 lite
 __pycache__
